@@ -46,28 +46,28 @@
 <action="allow">
 <groups="">
 >
-<[13]<page="prueba.htm">
+<[13]<page="index.a5w">
 <action="allow">
 <groups="">
 >
-<[14]<page="index.a5w">
-<action="allow">
-<groups="">
->
-<[15]<page="principal.a5w">
+<[14]<page="principal.a5w">
 <action="login">
 <groups="743287a441b740b7b786a5f87f55c214,Administrators,a1fc2a204356492481b2acc0e9ec292c,Operadores,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
 >
-<[16]<page="principal.a5wcmp">
+<[15]<page="principal.a5wcmp">
 <action="login">
 <groups="743287a441b740b7b786a5f87f55c214,Administrators,a1fc2a204356492481b2acc0e9ec292c,Operadores,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
 >
-<[17]<page="logout.a5w">
+<[16]<page="logout.a5w">
 <action="allow">
 <groups="">
 >
-<[18]<page="proyectos.a5wcmp">
+<[17]<page="proyectos.a5wcmp">
 <action="allow">
 <groups="">
+>
+<[18]<page="vad.a5wcmp">
+<action="login">
+<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
 >
 >
