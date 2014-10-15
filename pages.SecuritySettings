@@ -78,4 +78,12 @@
 <action="login">
 <groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
 >
+<[21]<page="perforacion.a5wcmp">
+<action="login">
+<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+>
+<[22]<page="vadPerforacionTurno.a5wcmp">
+<action="login">
+<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+>
 >
