@@ -166,51 +166,51 @@
 <action="login">
 <groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
 >
-<[43]<page="Vad Test.a5rpt">
+<[43]<page="Vad.a5rpt">
 <action="login">
 <groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
 >
-<[44]<page="Vad.a5rpt">
+<[44]<page="VadComentarios.a5rpt">
 <action="login">
 <groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
 >
-<[45]<page="VadComentarios.a5rpt">
+<[45]<page="VadDetallePorTurno.a5rpt">
 <action="login">
 <groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
 >
-<[46]<page="VadDetallePorTurno.a5rpt">
+<[46]<page="VadPerforacionPorTurno.a5rpt">
 <action="login">
 <groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
 >
-<[47]<page="VadPerforacionPorTurno.a5rpt">
+<[47]<page="VadProductosEnUso.a5rpt">
 <action="login">
 <groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
 >
-<[48]<page="VadProductosEnUso.a5rpt">
+<[48]<page="VadPruebasPorTurno.a5rpt">
 <action="login">
 <groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
 >
-<[49]<page="VadPruebasPorTurno.a5rpt">
+<[49]<page="VadActividadesPorDia.a5rpt">
 <action="login">
 <groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
 >
-<[50]<page="VadActividadesPorDia.a5rpt">
+<[50]<page="VadActividadesPorDia@demoworkspace.alb">
 <action="login">
 <groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
 >
-<[51]<page="VadActividadesPorDia@demoworkspace.alb">
+<[51]<page="VadConsumiblesPorDia.a5rpt">
 <action="login">
 <groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
 >
-<[52]<page="VadConsumiblesPorDia.a5rpt">
+<[52]<page="VadConsumiblesPorDia@demoworkspace.alb">
 <action="login">
 <groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
 >
-<[53]<page="VadConsumiblesPorDia@demoworkspace.alb">
+<[53]<page="listaVad.a5wcmp">
 <action="login">
 <groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
 >
-<[54]<page="listaVad.a5wcmp">
+<[54]<page="vadPruebas.a5wcmp">
 <action="login">
 <groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
 >
