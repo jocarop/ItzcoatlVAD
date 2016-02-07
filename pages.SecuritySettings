@@ -194,4 +194,20 @@
 <action="login">
 <groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
 >
+<[50]<page="bajaEmpleado.a5wcmp">
+<action="login">
+<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+>
+<[51]<page="empleado.a5wcmp">
+<action="login">
+<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+>
+<[52]<page="listaEmpleados.a5wcmp">
+<action="login">
+<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+>
+<[53]<page="recontratarEmpleado.a5wcmp">
+<action="login">
+<groups="294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+>
 >
