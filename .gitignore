@@ -3,3 +3,11 @@
 *.backup
 componentTypeCache
 lastSelectedProfile
+/__deleted.deleted/
+/__Undo.undo/
+/css/
+/websecurity_users.dbP
+/websecurity_members.dbP
+/websecurity_groups.dbP
+/websecurity_expired.dbP
+/Default.Rules
