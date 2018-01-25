@@ -51,163 +51,167 @@
 <groups="">
 >
 <[14]<page="principal.a5w">
-<action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,a1fc2a204356492481b2acc0e9ec292c,Operadores,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
->
-<[15]<page="principal.a5wcmp">
-<action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,a1fc2a204356492481b2acc0e9ec292c,Operadores,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
->
-<[16]<page="logout.a5w">
 <action="allow">
 <groups="">
 >
-<[17]<page="proyectos.a5wcmp">
+<[15]<page="logout.a5w">
 <action="allow">
 <groups="">
 >
-<[18]<page="vad.a5wcmp">
-<action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<[16]<page="proyectos.a5wcmp">
+<action="allow">
+<groups="">
 >
-<[19]<page="vadDetalle.a5wcmp">
+<[17]<page="vad.a5wcmp">
 <action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
-<[20]<page="horometro.a5wcmp">
+<[18]<page="vadDetalle.a5wcmp">
 <action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
-<[21]<page="perforacion.a5wcmp">
+<[19]<page="horometro.a5wcmp">
 <action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
-<[22]<page="vadPerforacionTurno.a5wcmp">
+<[20]<page="perforacion.a5wcmp">
 <action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
-<[23]<page="consumibles.a5wcmp">
+<[21]<page="vadPerforacionTurno.a5wcmp">
 <action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
-<[24]<page="vadConsumiblesTurno.a5wcmp">
+<[22]<page="consumibles.a5wcmp">
 <action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
-<[25]<page="pruebas.a5wcmp">
+<[23]<page="vadConsumiblesTurno.a5wcmp">
 <action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
-<[26]<page="actividades.a5wcmp">
+<[24]<page="pruebas.a5wcmp">
 <action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
-<[27]<page="vadActividadesTurno.a5wcmp">
+<[25]<page="actividades.a5wcmp">
 <action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
-<[28]<page="comentarios.a5wcmp">
+<[26]<page="vadActividadesTurno.a5wcmp">
 <action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
-<[29]<page="vadComentarios.a5wcmp">
+<[27]<page="comentarios.a5wcmp">
 <action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
-<[30]<page="productos.a5wcmp">
+<[28]<page="vadComentarios.a5wcmp">
 <action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
-<[31]<page="productosEnUso.a5wcmp">
+<[29]<page="productos.a5wcmp">
 <action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
-<[32]<page="vadProductosTurno.a5wcmp">
+<[30]<page="productosEnUso.a5wcmp">
 <action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
-<[33]<page="Empleados@demoworkspace.alb">
+<[31]<page="vadProductosTurno.a5wcmp">
 <action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
-<[34]<page="Horometro@demoworkspace.alb">
+<[32]<page="Empleados@demoworkspace.alb">
 <action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
-<[35]<page="VadComentarios@demoworkspace.alb">
+<[33]<page="Horometro@demoworkspace.alb">
 <action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
-<[36]<page="VadPerforacionPorTurno@demoworkspace.alb">
+<[34]<page="VadComentarios@demoworkspace.alb">
 <action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
-<[37]<page="VadProductosEnUso@demoworkspace.alb">
+<[35]<page="VadPerforacionPorTurno@demoworkspace.alb">
 <action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
-<[38]<page="VadPruebasPorTurno@demoworkspace.alb">
+<[36]<page="VadProductosEnUso@demoworkspace.alb">
 <action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
-<[39]<page="Vad@demoworkspace.alb">
+<[37]<page="VadPruebasPorTurno@demoworkspace.alb">
 <action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
-<[40]<page="VadActividadesPorDia@demoworkspace.alb">
+<[38]<page="Vad@demoworkspace.alb">
 <action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
-<[41]<page="VadConsumiblesPorDia@demoworkspace.alb">
+<[39]<page="VadActividadesPorDia@demoworkspace.alb">
 <action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
-<[42]<page="listaVad.a5wcmp">
+<[40]<page="VadConsumiblesPorDia@demoworkspace.alb">
 <action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
-<[43]<page="vadPruebas.a5wcmp">
+<[41]<page="listaVad.a5wcmp">
 <action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
-<[44]<page="ReporteMetros.a5wcmp">
+<[42]<page="vadPruebas.a5wcmp">
 <action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
-<[45]<page="asistenciaPorFechaPersona.a5wcmp">
+<[43]<page="ReporteMetros.a5wcmp">
 <action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
-<[46]<page="ReporteMetros@demoworkspace.alb">
+<[44]<page="asistenciaPorFechaPersona.a5wcmp">
 <action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
-<[47]<page="metrosPorFechaPersona.a5wcmp">
+<[45]<page="ReporteMetros@demoworkspace.alb">
 <action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
-<[48]<page="reporteUsoProductos.a5wcmp">
+<[46]<page="metrosPorFechaPersona.a5wcmp">
 <action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
-<[49]<page="detalleUsoProductos.a5wcmp">
+<[47]<page="reporteUsoProductos.a5wcmp">
 <action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
-<[50]<page="bajaEmpleado.a5wcmp">
+<[48]<page="detalleUsoProductos.a5wcmp">
 <action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
-<[51]<page="empleado.a5wcmp">
+<[49]<page="bajaEmpleado.a5wcmp">
 <action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
-<[52]<page="listaEmpleados.a5wcmp">
+<[50]<page="empleado.a5wcmp">
 <action="login">
-<groups="743287a441b740b7b786a5f87f55c214,Administrators,294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
-<[53]<page="recontratarEmpleado.a5wcmp">
+<[51]<page="listaEmpleados.a5wcmp">
 <action="login">
-<groups="294d2e680ba044ffa28f20c8e036ecd7,System Admins">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
+>
+<[52]<page="recontratarEmpleado.a5wcmp">
+<action="login">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
+>
+<[53]<page="principal.a5wcmp">
+<action="allow">
+<groups="">
+>
+<[54]<page="usuarios.a5wcmp">
+<action="login">
+<groups="9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
 >
