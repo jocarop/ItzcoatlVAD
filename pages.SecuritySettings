@@ -214,4 +214,8 @@
 <action="login">
 <groups="9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
+<[55]<page="controlPipasPorClienteDia.a5wcmp">
+<action="login">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
+>
 >
