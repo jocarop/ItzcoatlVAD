@@ -218,4 +218,8 @@
 <action="login">
 <groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
 >
+<[56]<page="ControlPipas@demoworkspace.alb">
+<action="login">
+<groups="4f20f769eb0149a4b7719d89008dbbfe,Administrador,cf3462697ec540e7877bc7f32da2f099,Administrators,9d9d76004cf3419eab9ecbd7ec36a475,SysAdmin">
+>
 >
